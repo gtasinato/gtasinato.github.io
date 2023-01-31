@@ -1,4 +1,4 @@
-# Gianluca Tasinato Homepage
+# About
 
 This is my homepage, where I'll collect my experiments in web dev and programming more generally.
 
