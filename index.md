@@ -7,7 +7,7 @@ My main math interests are in the field of so-called "Topological Combinatorics"
 
 
 1. Hardness of Promise Constraint Satisfaction Problems (PCSPs)
-2. Quantitative Borsuk-Ulam type results (with a focus towards Sierksma's problem)
+2. Quantitative Borsuk-Ulam type results (with a focus towards Sierksma Dutch Cheese problem)
 3. Measure splitting theorems / Intersection counting problems
 
 
