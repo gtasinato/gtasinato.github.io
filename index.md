@@ -23,5 +23,5 @@ Additionally, it will slowly become a sort of portfolio/CV of mine, for the worl
 
 Hopefully there will be some math as well; however the place is going to be a bit empty for the foreseeable future.
 
-<!--  LocalWords:  Combinatorics spherification
+<!--  LocalWords:  Combinatorics spherification Gazilli
  -->
