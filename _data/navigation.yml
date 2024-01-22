@@ -1,0 +1,17 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About Me"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contacts"
+    url: /contacts/
+  # - title: "CV"
+  #   url: /cv/
+
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
