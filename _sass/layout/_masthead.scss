@@ -60,8 +60,7 @@
   list-style-type: none;
   white-space: nowrap;
 
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+  &--active {
+    font-weight: bold;
   }
-}
+  }
