@@ -2,6 +2,8 @@
 layout: single
 permalink: /about/
 ---
+I have completed my PhD in July 2025 under the supervision of [Uli Wagenr](https://ist.ac.at/en/research/wagner-group/) at the Institure of Science and Technology Austria. 
+My thesis is on applications of topological combinatorics to two combiantiorial problems (mainly approximate graph colourings and mass partitioning); it can be found [here](https://research-explorer.ista.ac.at/record/20339).
 
 I attended [Università di Pisa](https://www.dm.unipi.it/) and [Scuola Normale Superiore](https://www.sns.it/it) for both my Bachelor and Master degree in Mathematics. 
 
