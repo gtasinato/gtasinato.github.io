@@ -5,11 +5,12 @@ layout: single
 permalink: /
 ---
 
-I am Gianluca Tasinato, a PhD student in [Uli Wagner](https://ist.ac.at/en/research/wagner-group/) research group at the Institute of Science of Technology Austria ([ISTA](https://www.ista.ac.at)).
+I am Gianluca Tasinato, a (future) postdoc in [Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/) research group in the department of Computer Science at Oxford University.
 
-My main math interests are in the field of so-called "Topological Combinatorics"; in particular, the main problems I am working on are:
+My main interests are in the field of so-called "Topological Combinatorics"; focussing in particular to applications of topology to the study of (Promise) Constraint Satisfaction Problems.
 
-1. Hardness of Promise Constraint Satisfaction Problems (PCSPs)
+Additionally, I am still interested in some different questions from Topological Combinatorics; specifically:
+
 2. Quantitative Borsuk-Ulam type results (with a focus towards Sierksma Dutch Cheese problem)
 3. Measure splitting theorems / Intersection counting problems
 
