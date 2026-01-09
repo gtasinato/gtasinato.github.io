@@ -5,7 +5,7 @@ layout: single
 permalink: /
 ---
 
-I am Gianluca Tasinato, a (future) postdoc in [Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/) research group in the department of Computer Science at Oxford University.
+I am Gianluca Tasinato, a postdoc in [Standa Živný](https://www.cs.ox.ac.uk/standa.zivny/) research group in the department of Computer Science at [Oxford University](https://www.cs.ox.ac.uk).
 
 My main interests are in the field of so-called "Topological Combinatorics"; focussing in particular to applications of topology to the study of (Promise) Constraint Satisfaction Problems.
 
