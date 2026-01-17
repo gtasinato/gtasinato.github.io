@@ -14,10 +14,3 @@ Additionally, I am still interested in some different questions from Topological
 2. Quantitative Borsuk-Ulam type results (with a focus towards Sierksma Dutch Cheese problem)
 3. Measure splitting theorems / Intersection counting problems
 
-# About this Page
-
-This is my homepage, where I'll collect my experiments in web dev and programming more generally.
-
-Additionally, it will slowly become a sort of portfolio/CV of mine, for the world to see! :D
-
-Hopefully there will be some math as well; however the place is going to be a bit empty for the foreseeable future.

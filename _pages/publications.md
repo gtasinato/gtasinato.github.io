@@ -17,5 +17,7 @@ Here you can find a collection of my publications/talks.
 
 ## Talks
 
+- *Hardness of 4-colouring G-colourable graphs*. Symposium on Theory of Computing, [STOC 2025](https://acm-stoc/stoc2025/); [(slides)]({{ site.baseurl }}/pdfs/stoc25.pdf).
+
 - *Hardness of Linearly Ordered 4-Colouring of 3-Colourable 3-Uniform Hypergraphs*. Symposium on Theoretical Aspects of Computer Science, [STACS 2024](https://stacs2024.limos.fr/); [(slides)]({{ site.baseurl }}/pdfs/stacs24.pdf).
 - *Eight-partitioning Points in 3D, and Efficiently Too*. Symposium on Computational Geometry, [SoCG 2024](https://socg24.athenarc.gr/index.html); [(slides)]({{ site.baseurl }}/pdfs/socg24.pdf).
