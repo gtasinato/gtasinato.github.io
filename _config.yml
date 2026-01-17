@@ -106,12 +106,12 @@ author:
   name             : "Gianluca Tasinato"
   avatar           : "/assets/images/foto.jpg"
   bio              : "Math Researcher"
-  location         : "Wien - Austria"
+  location         : "Oxford - UK"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:gian.tasinato@gmail.com"
+      url: "mailto:gianluca.tasinato@cs.ox.ac.at"
     - label: "Scholar"
       icon: "fab fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=7h3w9ZwAAAAJ"
